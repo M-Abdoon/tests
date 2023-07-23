@@ -1,13 +1,8 @@
-
-[A<?php
+<?php
 function how_to_read($file){
     print($file);
 }
-?>
-[A[A[C
 
-[A[A[C
-
-[A
 echo how_to_read('hello');
+// I don't know that this is !
 ?>
